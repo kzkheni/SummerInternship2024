@@ -3,3 +3,5 @@ Welcome to my GitHub repository of my 6-week Summer Internship 2024, during 4th 
 
 # Technologies Used
 HTML, CSS, JavaScript, React
+
+## Progress:
