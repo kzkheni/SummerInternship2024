@@ -7,3 +7,4 @@ HTML, CSS, JavaScript, React
 # Progress:
 
 ### 📅 Week 1
+**May 13, 2024**:
