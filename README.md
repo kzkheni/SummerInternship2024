@@ -6,4 +6,4 @@ HTML, CSS, JavaScript, React
 
 # Progress:
 
-### Week 1
+### 📅 Week 1
