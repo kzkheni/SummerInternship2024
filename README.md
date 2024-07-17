@@ -8,3 +8,4 @@ HTML, CSS, JavaScript, React
 
 ### 📅 Week 1
 **May 13, 2024**:
+- ✅ Today, I immersed myself in the basics of HTML, gaining a solid understanding of its structure and purpose. It was exciting to dive into this foundational technology, which plays a crucial role in modern web development. I also conducted a preliminary analysis of my project's requirements, identifying the essential elements needed to create both the structure and content of web pages. This gave me a clear picture of the scope and direction of my project.
